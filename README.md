@@ -1,0 +1,2 @@
+# TB2-PemWeb2
+Tugas Besar 2 - Membuat Aplikasi Web dengan menggunakan framework CodeIgniter dengan Library tambahan: 1. Tugas dikerjakan oleh setiap individu. 2. Aplikasi Web menggunakan framework CodeIgniter 4. 3. Melanjutkan aplikasi yang telah dibuat di Tugas Besar 1. 4. Menambahkan menu Curriculum Vitae (CV) dari Mahasiswa. 5. CV yang dibuat dapat dilakukan CRUD dan di download dalam bentuk file PDF dan file Excel. 6. Silahkan menambahkan library-libray lain sebagai nilai tambah aplikasi yang Anda kembangkan.
